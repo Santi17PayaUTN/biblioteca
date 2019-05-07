@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1556322717 source:c:\users\rodri\documents\bibliotecas\bibliotecafuncionesbasicas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BibliotecaFuncionesBasicas.h"
+
+1557098042 c:\users\rodri\documents\bibliotecas\bibliotecafuncionesbasicas\bibliotecafuncionesbasicas.h
+	<stdio.h>
+	<stdlib.h>
+
+1557098784 source:c:\users\rodri\documents\bibliotecas\bibliotecafuncionesbasicas\bibliotecafuncionesbasicas.c
+	"BibliotecaFuncionesBasicas.h"
+
+1557186758 source:c:\users\rodri\documents\bibliotecas - copia\bibliotecafuncionesbasicas\bibliotecafuncionesbasicas.c
+	"BibliotecaFuncionesBasicas.h"
+
+1557116376 c:\users\rodri\documents\bibliotecas - copia\bibliotecafuncionesbasicas\bibliotecafuncionesbasicas.h
+	<stdio.h>
+	<stdlib.h>
+
+1557115970 source:c:\users\rodri\documents\bibliotecas - copia\bibliotecafuncionesbasicas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BibliotecaFuncionesBasicas.h"
+
